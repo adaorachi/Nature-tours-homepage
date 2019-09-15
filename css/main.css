@@ -560,6 +560,6 @@ footer {
 
 @media screen and (min-width: 1200px) {
   .hero {
-    height: 22rem;
+    height: 85vh;
   }
 }
